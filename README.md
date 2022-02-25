@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on:
     an Ecommerce app using the PERN stack 
+    <hr>
     a cycling social media app using the MERN stack
 - 🌱 I’m currently learning Javascript web development
 - - 😄 Pronouns: he/him 
