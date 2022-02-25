@@ -1,10 +1,10 @@
 ### Hi there 👋
-    <hr>
 - 🔭 I’m currently working on:
     an Ecommerce app using the PERN stack &
     a cycling social media app using the MERN stack
 - 🌱 I’m currently learning Javascript web development
 - - 😄 Pronouns: he/him 
+   <hr>
 - - 📫 How to reach me: will.nollert@gmail.com
 
 <!--
