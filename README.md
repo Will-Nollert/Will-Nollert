@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on:
-- - an Ecommerce app using the PERN stack &
-- - a cycling social media app using the MERN stack
+- - an Ecommerce app using the MERN stack &
+- - Learning OAuth with Strava's API
 - 🌱 I’m currently learning Javascript web development
 -  😄 Pronouns: he/him 
    
