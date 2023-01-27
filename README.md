@@ -2,7 +2,8 @@
 ## A fullstack web developer and educator 
 I’m currently 
 - - Teaching fullstack Javascript web development with EdX
-- - learning c++ and more web development
+- - Taking a class learning c++  
+- - Learning more web development
 
 
    
