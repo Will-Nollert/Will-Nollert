@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on:
-- - an Ecommerce app using the MERN stack &
-- - Learning OAuth with Strava's API
-- 🌱 I’m currently learning c++ and more web development
--  😄 Pronouns: he/him 
+- - I’m currently :
+- - Teaching fullstack Javascript web development with EdX
+- - learning c++ and more web development
+
+
    
-- 📫 How to reach me: will.nollert@gmail.com
+
 
 <!--
 **Will-Nollert/will-nollert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
