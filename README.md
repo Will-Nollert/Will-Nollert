@@ -1,5 +1,5 @@
 ### Hi there 👋
-- - I’m currently :
+I’m currently 
 - - Teaching fullstack Javascript web development with EdX
 - - learning c++ and more web development
 
