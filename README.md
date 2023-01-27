@@ -1,5 +1,5 @@
 ### Hi there i'm William Nollert👋
-## A fullstack webdeveloper and educator 
+## A fullstack web developer and educator 
 I’m currently 
 - - Teaching fullstack Javascript web development with EdX
 - - learning c++ and more web development
