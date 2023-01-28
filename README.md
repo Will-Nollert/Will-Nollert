@@ -3,7 +3,7 @@
 I’m currently 
 - Teaching fullstack Javascript web development with EdX
 - Taking a class learning c++  
--  Learning more web development
+-  Learning more about web development
 
 
    
